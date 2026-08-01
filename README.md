@@ -92,7 +92,7 @@ Some features I would like to add in the future are:
 ![Database Records](Screenshots/HMS6.png)
 
 ### Project Output
-![Project Output](Screenshots/HMS7.png)
+![Project Output](Screenshots/HSM7.png)
 
 ## Author
 
