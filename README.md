@@ -1,6 +1,6 @@
-# Hospital Management System
+# 🏥 Hospital Management System
 
-This is a simple Hospital Management System developed using Java, JDBC, and MySQL. I built this project to improve my understanding of Java database connectivity and CRUD operations while learning backend development.
+A desktop-based Hospital Management System built using Java, JDBC, and MySQL. It helps manage patient records, doctor details, appointments, and medical information through a simple interface.
 
 ## Project Overview
 
