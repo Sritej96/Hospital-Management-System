@@ -19,8 +19,8 @@ Users can:
 - JDBC
 - MySQL
 - Maven
-- Git & GitHub
-
+- IntelliJ IDEA
+  
 ## Project Structure
 
 ```
