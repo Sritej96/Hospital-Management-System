@@ -70,6 +70,29 @@ Some features I would like to add in the future are:
 - Billing module
 - User authentication
 - Search and filtering
+  
+## 📸 Project Screenshots
+
+### Home Screen
+![Home Screen](Screenshots/HMS1.png)
+
+### Add Patient
+![Add Patient](Screenshots/HMS2.png)
+
+### Patient Details
+![Patient Details](Screenshots/HMS3.png)
+
+### Update Patient
+![Update Patient](Screenshots/HMS4.png)
+
+### Delete Patient
+![Delete Patient](Screenshots/HMS5.png)
+
+### Database Records
+![Database Records](Screenshots/HMS6.png)
+
+### Project Output
+![Project Output](Screenshots/HMS7.png)
 
 ## Author
 
